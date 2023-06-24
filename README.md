@@ -20,7 +20,7 @@ The dataset used for annotation is composed of 100 tweets. Each tweet has been a
 
 ## Project architecture
 
-Our work can be found in the notebook named : 'nlp_annotaion.ipynb'
+Our work can be found in the notebook named : `nlp_annotation.ipynb`
 The annotation sheet is in the file `offensive_tweets_annotated.xlsx`.
 
 
